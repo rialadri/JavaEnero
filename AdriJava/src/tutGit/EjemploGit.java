@@ -13,6 +13,7 @@ public class EjemploGit {
 		System.out.println("Hola de nuevo");
 		
 		System.out.println("Esta funcionando?");
+		System.out.println("Si funciona");
 	}
 
 }
