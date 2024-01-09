@@ -9,8 +9,10 @@ public class EjemploGit {
 		System.out.println("Hola Mundo, que buen dia hace");
 		
 		String nombre= "Adrian Madrigal";
-		System.out.println("Hola" + nombre);
+		System.out.println("Hola " + nombre);
 		
+		String empress = "CESUR";
+		System.out.println("Hola " + nombre + " que estudias en " + empress);
 	}
 
 }
